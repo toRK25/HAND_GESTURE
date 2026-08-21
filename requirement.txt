@@ -1,0 +1,9 @@
+OPENCV
+MEDIAPIPE==0.10.12
+PYAUTOGUI==0.9.54
+TIME
+
+IF ANY ERROR U FACE like me
+
+Just use chatgpt or refer to this video playlist(https://youtu.be/s7S4vco6bUk?si=flNRM1Tyz_2Nsf8n)
+ALL CREDIT GOES TO HER...Wish u luck!!!
